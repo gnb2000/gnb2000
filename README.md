@@ -5,7 +5,7 @@
 
 ## 📋 About Me
 
-**Senior Software Engineer** based in Argentina. Passionate about building scalable systems and solving complex problems.
+**Software Engineer** based in Argentina. Passionate about building scalable systems and solving complex problems.
 
 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-bari-3b3543199)
 
