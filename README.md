@@ -5,7 +5,7 @@
 
 ## 📋 About Me
 
-**Software Engineer** based in Argentina. Passionate about building scalable systems and solving complex problems.
+**Software Engineer** from Argentina, passionate about building scalable systems and solving complex problems to make people's lives easier through technology.
 
 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-bari-3b3543199)
 
