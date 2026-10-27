@@ -52,6 +52,14 @@
 
 ## 🚀 Projects
 
+### [AEROQUIZ](https://aeroquiz.gnbr.dev/)
+Guess the aviation accident cause.
+
+**Tech Stack:** Go, React
+
+![AIS Screenshot 1](<img width="1916" height="967" alt="image" src="https://github.com/user-attachments/assets/6367588c-2122-40a4-bf7d-04edb6dbf629" />)
+![AIS Screenshot 2](https://raw.githubusercontent.com/gnb2000/gnb2000/main/ais_2.png)
+
 ### [IVAO ARGENTINA AIS](https://ais.ar.ivao.aero/)
 Easy way to use Argentinian Aeronautical charts.
 
